@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>latihan.candra</groupId>
-  <artifactId>belajar-maven</artifactId>
+  <artifactId>latihan-maven</artifactId>
   <version>3.6.0</version>
   <packaging>jar</packaging>
 
-  <name>belajar-maven</name>
+  <name>latihan-maven</name>
   <!-- FIXME change it to the project's website -->
   <url>https://github.com/candraprastyadiwahab</url>
 
