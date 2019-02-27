@@ -74,7 +74,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///home/belajar-maven/.m2</url>
+         <url>file:///opt/belajar-maven/</url>
        </repository>
    </distributionManagement>
   <build>
